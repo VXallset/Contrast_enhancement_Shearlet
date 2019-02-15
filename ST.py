@@ -1,11 +1,10 @@
 """
-This script is the main function of the Shearlet Transformation for X-Ray image enhancement.
+This script is the main function of the Shearlet Transformation for X-Ray image contrast enhancement.
 Coding = utf-8
-Copyright (C) 2019 * Ltd. All rights reserved.
 Editor      : PyCharm
-File name   : utils.py
-Author      : Yu Sun
-Date modified: 2019-2-14 15:46:00
+File name   : ST.py
+Author      : VXallset
+Date modified: 2019-2-15
 """
 
 import time
