@@ -1,15 +1,12 @@
-#! /usr/bin/env python
-# coding=utf-8
-# ================================================================
-#   Copyright (C) 2019 * Ltd. All rights reserved.
-#
-#   Editor      : PyCharm
-#   File name   : utils.py
-#   Author      : Hume
-#   Created date: 2019-1-16 09:04:00
-#   Description : Useful tools for processing, analysis and metrics.
-#
-# ================================================================
+"""
+This script is the main function of the Shearlet Transformation for X-Ray image contrast enhancement.
+Useful tools for processing, analysis and metrics.
+Coding = utf-8
+Editor      : PyCharm
+File name   : utils_st.py
+Author      : VXallset, Hume
+Date modified: 2019-2-15
+"""
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
